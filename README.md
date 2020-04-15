@@ -1,13 +1,10 @@
-# Sample Snack app
+# Guess Game
 
-Welcome to Expo!
-
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+### Image:
+  ![Image1](https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/93136630_1086584118372863_3285449848848908288_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=ZjQQejXHd9sAX9Ac3vy&_nc_ht=scontent-lax3-1.xx&oh=f2b42b2540bfcea95509befc00e34f9c&oe=5EBAA309)
+  ![Image2](https://scontent-lax3-2.xx.fbcdn.net/v/t1.15752-9/93322986_223765058716980_2490433625489670144_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=KWcJmHnC0oIAX9_cGtF&_nc_ht=scontent-lax3-2.xx&oh=60a59c58f4f7c96b1ae4dcad87183ffa&oe=5EBAFFA1)
+  ![Image3](https://scontent-lax3-1.xx.fbcdn.net/v/t1.15752-9/92822910_604048510190100_3140711061586444288_n.jpg?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=ClZt6yf8cKYAX_iPjUn&_nc_ht=scontent-lax3-1.xx&oh=a1828d081fe45d9eae27959534d01f8d&oe=5EBA8694)
+  ![Image4](https://scontent-lax3-2.xx.fbcdn.net/v/t1.15752-9/92953053_706258693445427_8614697865895215104_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=TLZ3rPpsL3QAX92Jbpj&_nc_ht=scontent-lax3-2.xx&oh=2f11efbdecbdbfe9e44a0e5c8fcc2da9&oe=5EBE196D)
+### Demo Link:
+  - Youtube: ***https://www.youtube.com/watch?v=s2zU33BWGQs***
+  - Facebook: ***https://www.facebook.com/nekobot2596/***
